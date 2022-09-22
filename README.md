@@ -4,7 +4,7 @@ Olá ✌️
 
 - 👨‍💻 Estou cursando Engenharia da Computacao- Faculdade Descomplica
 - ✍️ Atualmente, estou aprendendo Desenvolvimento Web
-- ⌨️ Desenvolvendo Págians Fullstack, utilizando Nodejs e React
+- ⌨️ Desenvolvendo Páginas Fullstack, utilizando Nodejs e React
 - 🎓 Redação Enem 2020 - 920 pontos
 - 📖 Adoro fazer minhas leituras matinais
 - 🔜 Em 2023, pretendo me aprofundar mais em aplicações Fullstack, utilizando o Next como framework.
