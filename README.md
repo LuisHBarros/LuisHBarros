@@ -3,8 +3,8 @@
 **Backend Engineer** | Java • Python • Oracle PL/SQL | Clean Architecture • DDD • Event-Driven Design
 
 [![GitHub followers](https://img.shields.io/github/followers/LuisHBarros?style=social)](https://github.com/LuisHBarros)
-[![Website](https://img.shields.io/badge/luisbarros.com-000?style=flat)](https://luisbarros.com)
-[![Email](https://img.shields.io/badge/me%40luisbarros.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:me@luisbarros.com)
+[![Website](https://img.shields.io/badge/luisbarros.com-000?style=flat)](https://luisbarros.dev)
+[![Email](https://img.shields.io/badge/me%40luisbarros.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:me@luisbarros.dev)
 
 ---
 
