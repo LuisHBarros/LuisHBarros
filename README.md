@@ -10,7 +10,7 @@
 
 ## About Me
 
-Backend engineer based in **Sertãozinho, Brazil**, with a focus on building scalable, maintainable systems using modern architecture patterns. Currently working at **NovaSmar S/A** (global industrial automation company) as an Analyst, after rapid promotion from Junior Developer.
+Backend engineer based in **Brazil**, with a focus on building scalable, maintainable systems using modern architecture patterns. Currently working at **NovaSmar S/A** (global industrial automation company) as an Analyst, after rapid promotion from Junior Developer.
 
 I combine **deep expertise in legacy systems** (Oracle PL/SQL, Protheus TOTVS ERP) with **modern backend frameworks** (Java/Spring Boot, Python/FastAPI) to bridge old and new in enterprise environments.
 
