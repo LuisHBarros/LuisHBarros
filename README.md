@@ -81,7 +81,7 @@ A production-grade **real-time messaging application** built with Java 21 and Sp
 **Analyst** (promoted from Junior Developer within 6 months)
 
 - Refactored legacy Oracle PL/SQL procedures with focus on **SQL injection prevention** (bind variables), **named constants**, and **transaction control**
-- Built cost reconciliation queries between `SUPRIMENTO.MOVIMENTO` and `PROTPROD.SD1010` tables
+- Built cost reconciliation queries between `Internal tables` and `ERP TOTVS Protheus` tables
 - Analyzed large daily batch procedures (`SP_TAREFA_DIARIA`) with dozens of cross-schema calls
 - Integrated with **Protheus TOTVS ERP** for automated workflows
 - Mentored junior developers on clean code practices and ERP integration patterns
